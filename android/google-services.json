@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881861526426",
+    "firebase_url": "https://balloons-f4c2d.firebaseio.com",
+    "project_id": "balloons-f4c2d",
+    "storage_bucket": "balloons-f4c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881861526426:android:58a0c31a35110656",
+        "android_client_info": {
+          "package_name": "com.kara4k.balloons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881861526426-m3hmrumk73m6ljcbda1o61sh285rh3n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBzGytrEYsl560SwZn7_t05oQ5k61tTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
